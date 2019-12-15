@@ -1,0 +1,83 @@
+/* body{
+    background-color: lightgrey;
+ 
+    
+
+} */
+
+
+.satu{
+   float: left;
+   margin: 10px;
+  
+}
+
+.cv {
+    align-items: center;
+    margin: 0;
+    float: left;
+    margin: 20px;
+}
+
+ .h4{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+     color:orangered;
+     font-weight: bolder;
+     text-align: left;
+     font-size: 35px;
+   margin-top: 5px;
+
+ }
+
+ .p0{
+    color:white;   
+    font-weight: bolder;
+    text-align: left;  
+ }
+
+
+.p1{
+    
+text-align: left;
+color:yellow;
+font-size: 15px;
+font-weight: bolder;
+margin-top: 60px;
+
+
+}
+
+.dua{
+    float: right;
+    margin: 10px;
+}
+
+
+.tiga{
+    float: left;
+    margin: 10px;
+}
+ 
+.container1 h3{
+
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+text-align: center;
+font-size: 30px;
+}
+
+.h5{
+    text-align: center;
+}
+
+.sumary{
+    text-align: center;
+    font-size: 17px;
+    font-weight: lighter;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.ten{
+    margin-left: 45%;
+    margin-bottom: 20px;
+    margin-top: 70px;
+}
